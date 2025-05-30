@@ -1,4 +1,4 @@
-#  News Sentiment Analysis – Task 1
+#  News Sentiment Analysis – Task 1 : Git and Github
 
 This repository contains the setup and exploratory analysis for **Week 1 – Predicting Price Moves with News Sentiment** challenge. The focus is on configuring version control, setting up a Python development environment, automating CI/CD workflows, and performing Exploratory Data Analysis (EDA) on financial news headlines.
 
