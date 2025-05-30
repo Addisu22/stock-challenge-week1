@@ -43,6 +43,7 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 ## Development Setup
 # Create virtual environment : 
 We have used Windows with Python 3.13
+
 python -m venv .venv
 .venv\Scripts\activate 
 
