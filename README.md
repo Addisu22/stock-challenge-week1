@@ -7,8 +7,11 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 ##  Objectives (Task 1)
 
  ✅ Setup Git and GitHub with proper branching.
+ 
  ✅ Establish a clean Python environment.
+ 
  ✅ Configure automated testing using GitHub Actions.
+ 
  ✅ Perform EDA on financial news data.
 
 
