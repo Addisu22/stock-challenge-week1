@@ -4,8 +4,6 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 
 
 ##  Project Structure
-
-
 ##  Objectives (Task 1)
 
  ✅ Setup Git and GitHub with proper branching.
@@ -14,8 +12,7 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
  ✅ Perform EDA on financial news data.
 
 
-## Key Analyses Performed
-
+## Key Analysis Performed
 ### Descriptive Statistics
 - Headline length distributions
 - Article count per publisher
@@ -33,22 +30,17 @@ This repository contains the setup and exploratory analysis for **Week 1 – Pre
 - Top publishers by frequency
 - Domain analysis of publisher emails
 
-
-
-## Tech Stack
-
+## Tech Stack : using the following Tools, Softwares, Libraries and Framework.
 - Python 3.13
 - Jupyter
 - Pandas, NumPy, Seaborn, Matplotlib
 - scikit-learn, NLTK
 - Git, GitHub Actions
 
-
 ## Development Setup
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate (Windows)
+# Create virtual environment : We have used Windows with Python 3.13
+python -m venv .venv
+.venv\Scripts\activate 
 
 # Install dependencies
 pip install -r requirements.txt
